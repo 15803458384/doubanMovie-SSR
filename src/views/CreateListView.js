@@ -1,4 +1,4 @@
-import moving from '../views/moving.vue'
+import moving from './moving.vue'
 /**
  * 工厂函数 可以动态创建视图
  * @param type
