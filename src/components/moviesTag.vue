@@ -143,5 +143,4 @@ export default{
       text-align: center;
       background: #eee;
       color: $doubanColor;
-
 </style>

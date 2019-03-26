@@ -76,9 +76,4 @@
             font-size: 14px;
         .rate-value
           color: #ff9900
-
-
-
-
-
 </style>
